@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "656b71914cb07cce4557d724"
+  },
+  "title": "Ethiopiaww",
+  "artist": "Teddy Afro",
+  "album": "nandu",
+  "genre": "two",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656b72564cb07cce4557d729"
+  },
+  "title": "kenya",
+  "artist": "Teddy Afro",
+  "album": "nandu",
+  "genre": "two",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656c4786f45c95e6d015b7d6"
+  },
+  "title": "habsha",
+  "artist": "Teddy Tadess",
+  "album": "ethiopia",
+  "genre": "five",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656c47d1f45c95e6d015b7d8"
+  },
+  "title": "rap",
+  "artist": "liji michile",
+  "album": "ethiopia",
+  "genre": "foure",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656d622cb6fd4828272a213f"
+  },
+  "title": "yohannes",
+  "artist": "getachew",
+  "album": "ethiopia",
+  "genre": "jo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656df077b6fd4828272a215a"
+  },
+  "title": "yohannes",
+  "artist": "daniel",
+  "album": "dani",
+  "genre": "just",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6574a343a35a939c9e857d31"
+  },
+  "title": "tedd yo",
+  "artist": "tedd yo",
+  "album": "3rd album",
+  "genre": "rap",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6574a4d8a35a939c9e857d35"
+  },
+  "title": "Ethiopia_Hageri",
+  "artist": "Tilahun ",
+  "album": "3rd Album",
+  "genre": "what does it mean",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65771a0655bb631d546338d7"
+  },
+  "title": "2",
+  "artist": "2",
+  "album": "2",
+  "genre": "2",
+  "__v": 0
+}]
